@@ -16,7 +16,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 dotenv.load_dotenv()
 
 # Set HuggingFace API token
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "***************"
 
 # Define a class to encapsulate document sections
 class Document:
